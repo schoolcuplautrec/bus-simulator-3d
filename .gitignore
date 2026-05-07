@@ -1,0 +1,35 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+DerivedDataCache/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+*.a
+*.lib
+*.o
+*.so
+*.dylib
+
+# Compiled files
+*.exe
+*.dll
+
+# Project specific
+.venv/
+node_modules/

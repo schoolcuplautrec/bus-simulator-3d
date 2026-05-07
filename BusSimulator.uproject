@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "Simulation",
+	"Description": "Realistic 3D Bus Driving Simulator with advanced physics",
+	"Modules": [
+		{
+			"Name": "BusSimulator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		}
+	]
+}
